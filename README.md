@@ -1,6 +1,6 @@
-## Not
-
-Bu proje 30 Star'a ulaştığında açık kaynak olarak paylaşılacaktır. Projeyi beğendiyseniz, star atarak daha hızlı paylalışmasını sağlayabilirsiniz.
+# Not 
+- Bu proje 30 Star'a ulaştığında açık kaynak olarak paylaşılacaktır.
+- Projeyi beğendiyseniz, star atarak daha hızlı paylalışmasını sağlayabilirsiniz.
 
 ## Preview
 
@@ -8,6 +8,5 @@ Bu proje 30 Star'a ulaştığında açık kaynak olarak paylaşılacaktır. Proj
 
 
 ## İletişim & Demo
-**[🔗 Demo](https://akira-portfolioo.vercel.app/)**
+**[Akira](https://discord.com/users/337545269845688361)** & **[Demo](https://akira-portfolioo.vercel.app/)**
 
-**Akira - [Discord](https://discord.com/users/337545269845688361)**
