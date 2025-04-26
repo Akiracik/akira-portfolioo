@@ -1,5 +1,5 @@
 # Not 
-- Bu proje 15 Star'a ulaştığında açık kaynak olarak paylaşılacaktır.
+- Bu proje 20 Star'a ulaştığında açık kaynak olarak paylaşılacaktır.
 - Projeyi beğendiyseniz, star atarak daha hızlı paylalışmasını sağlayabilirsiniz.
 
 ## Preview
