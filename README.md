@@ -8,3 +8,4 @@
 ## İletişim & Demo
 **[Akira](https://discord.com/users/337545269845688361)** & **[Demo](https://akira-portfolioo.vercel.app/)**
 
+[![Discord Banner](https://api.weblutions.com/discord/invite/vsc/)](https://discord.gg/vsc)
