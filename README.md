@@ -2,7 +2,7 @@
 
 Modern ve etkileyici bir kişisel portfolyo sitesi. Discord entegrasyonu, GitHub projeleri ve dinamik içerikle kişiselleştirilmiş bir deneyim sunar.
 
-**[🔗 Demo](https://akira-portfolio.vercel.app) | [📦 GitHub](https://github.com/akiracik/akira-portfolio)**
+**[🔗 Demo](https://akira-portfolioo.vercel.app) | [📦 GitHub](https://github.com/akiracik/akira-portfolio)**
 
 ![akiresim](https://github.com/user-attachments/assets/5ef0d510-49aa-4af8-a326-b878c16aec5a)
 
